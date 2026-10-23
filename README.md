@@ -46,7 +46,7 @@ To actually run a transaction end-to-end you need:
 
 ## Why it was built
 
-The starting question was simple: why do UPI payments fail in low-signal areas, and why does the smartphone UX collapse the moment internet drops out?
+The starting question was simple: why do  UPI payments fail in low-signal areas, and why does the smartphone UX collapse the moment internet drops out?
 
 The official failure metrics — the publicly reported ~0.7–0.8% technical decline rate — count only transactions that reached a switch and got rejected. They don't count the much larger population: transactions that never initiated because the app couldn't reach the network. That invisible failure population is the actual problem worth solving.
 
